@@ -1,0 +1,61 @@
+.titre{
+    font-size: 3.75em;
+    color: #000000;
+    text-align: center;
+}
+body{
+    background-color: rgb(80, 79, 79);
+}
+.informations1{
+    font-size: 2.5em;
+    text-align: left;
+}
+#image
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.logo{
+    width: 800;
+    height: 160;
+}
+.informations2{
+    font-size: 2.5em;
+    text-align: right;
+}
+.carte{
+    float: left;
+    width: 440;
+    height: 440;
+}
+.calendrier{
+    float: right;
+    width: 300;
+    height: 300;
+}
+.informations3{
+    text-align: right;
+    font-size: 2.25em;
+}
+.conclusion{
+    text-align: left;
+    font-size: 1.875em;
+    color: #290000;
+}
+.giffin{
+    float: left;
+    width: 312,5;
+    height: 250;
+}
+.giffin2{
+    float: right;
+    width: 436;
+    height: 200;
+}
+#fin{
+    font-size: 3.75em;
+    color: #290000;
+    text-align: center;
+}
